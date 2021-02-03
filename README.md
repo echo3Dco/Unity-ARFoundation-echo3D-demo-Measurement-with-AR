@@ -1,4 +1,4 @@
-# MeasureAR
+# Unity-ARFoundation-echoAR-demo-Measurement-with-AR
 Simple measurement application using AR Foundation, Unity, and EchoAR. Tested on Android devices.
 
 You can measure custom AR objects:
