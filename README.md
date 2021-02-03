@@ -14,7 +14,7 @@ If you don't have an echoAR API key yet, make sure to register for FREE at [echo
 
 ## Setup
 * Clone this repository for prefabs,scenes and custom scripts.
-* Open the project in Unity and follow the instructions on our [doumention page](https://docs.echoar.xyz/unity/adding-ar-capabilities) to [set your API key](https://docs.echoar.xyz/unity/adding-ar-capabilities#3-set-you-api-key).
+* Open the project in Unity and follow the instructions on our [documentation page](https://docs.echoar.xyz/unity/adding-ar-capabilities) to [set your API key](https://docs.echoar.xyz/unity/adding-ar-capabilities#3-set-you-api-key).
 * Set your echoAR API key in the echoAR prefab
 * Add models to your echoAR project
 
